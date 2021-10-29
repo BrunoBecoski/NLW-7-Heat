@@ -2,11 +2,26 @@
   <img src=".github/logo.png" alt="Logo DoWhile 2021"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <a>Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a>Tecnologias</a>
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias" >Tecnologias</a>
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
   <img src=".github/capa.png" alt="Capa DoWhile 2021"/>
 </div>
+
+## 🚀 Tecnologias
+
+### Node.js
+
+### ReactJS
+
+### React Native
+
+### Elixir
