@@ -19,6 +19,10 @@
 ## 🚀 Tecnologias
 
 ### Node.js
+* Prisma
+* Express
+* TypeScript
+* Socket.IO
 
 ### ReactJS
 
