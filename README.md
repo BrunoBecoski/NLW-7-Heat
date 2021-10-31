@@ -25,6 +25,10 @@
 * Socket.IO
 
 ### ReactJS
+* Vite
+* TypeScript
+* Sass
+* Socket.IO
 
 ### React Native
 
