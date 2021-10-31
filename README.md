@@ -20,8 +20,8 @@
 
 ### Node.js
 * Prisma
-* Express
 * TypeScript
+* Express
 * Socket.IO
 
 ### ReactJS
@@ -31,5 +31,9 @@
 * Socket.IO
 
 ### React Native
+* Expo
+* TypeScript
+* Moti
+* Socket.IO
 
 ### Elixir
