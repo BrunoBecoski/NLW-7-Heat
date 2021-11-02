@@ -37,3 +37,7 @@
 * Socket.IO
 
 ### Elixir
+* Phoenix
+* Ecto
+* Task
+* Quantum
