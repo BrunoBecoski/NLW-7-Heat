@@ -16,6 +16,13 @@
   <img src=".github/capa.png" alt="Capa DoWhile 2021"/>
 </div>
 
+<br/>
+
+## 📖 Sobre
+O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa para o evento DoWhile, desenvolvido durante a NLW#7 Heat - Impulse da Rocketseat entre os dias 18 e 22 de Outubro 2021. 
+
+<br/>
+
 ## 🚀 Tecnologias
 
 ### Node.js
