@@ -29,6 +29,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 * Prisma
 * TypeScript
 * Express
+* Github OAuth
 * Socket.IO
 
 ### ReactJS
