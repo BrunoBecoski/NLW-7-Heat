@@ -6,7 +6,10 @@
 
 <div align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias" >Tecnologias</a>
+  <a href="-node.js">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="-react js">React JS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="-react native">React Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="-elixir">Elixir</a>
 </div>
 
 <br/>
@@ -23,28 +26,32 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## 🚀 Tecnologias
-
-### Node.js
+## Node.js
 * Prisma
 * TypeScript
 * Express
 * Github OAuth
 * Socket.IO
 
-### ReactJS
+<br/>
+
+## ReactJS
 * Vite
 * TypeScript
 * Sass
 * Socket.IO
 
-### React Native
+<br/>
+
+## React Native
 * Expo
 * TypeScript
 * Moti
 * Socket.IO
 
-### Elixir
+<br/>
+
+## Elixir
 * Phoenix
 * Ecto
 * Task
