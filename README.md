@@ -26,7 +26,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## Node.js
+## 📗 Node.js
 * Prisma
 * TypeScript
 * Express
@@ -35,7 +35,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## React JS
+## 💻 React JS
 * Vite
 * TypeScript
 * Sass
@@ -43,7 +43,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## React Native
+## 📱 React Native
 * Expo
 * TypeScript
 * Moti
