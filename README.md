@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-node.js">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-react js">React JS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-node">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-react">React JS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-react native">React Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-elixir">Elixir</a>
 </div>
@@ -26,7 +26,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## 📗 Node.js
+## 📗 Node
 * Prisma
 * TypeScript
 * Express
@@ -35,7 +35,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## 💻 React JS
+## 💻 React
 * Vite
 * TypeScript
 * Sass
