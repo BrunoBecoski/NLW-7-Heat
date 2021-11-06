@@ -51,7 +51,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## Elixir
+## 💧 Elixir
 * Phoenix
 * Ecto
 * Task
