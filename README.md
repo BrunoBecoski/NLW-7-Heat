@@ -5,11 +5,11 @@
 <br/>
 
 <div align="center">
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-node">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-react">React JS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-native">React Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-elixir">Elixir</a>
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#node">Node</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#react">React</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#native">Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#elixir">Elixir</a>
 </div>
 
 <br/>
@@ -21,12 +21,12 @@
 
 <br/>
 
-## 📖 Sobre
+## Sobre
 O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa para o evento DoWhile, desenvolvido durante a NLW#7 Heat - Impulse da Rocketseat entre os dias 18 e 22 de Outubro 2021. 
 
 <br/>
 
-## 📗 Node
+## Node
 * Prisma
 * TypeScript
 * Express
@@ -35,7 +35,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## 💻 React
+## React
 * Vite
 * TypeScript
 * Sass
@@ -43,7 +43,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## 📱 Native
+## Native
 * Expo
 * TypeScript
 * Moti
@@ -51,7 +51,7 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 <br/>
 
-## 💧 Elixir
+## Elixir
 * Phoenix
 * Ecto
 * Task
