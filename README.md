@@ -1,7 +1,8 @@
 <div align="center">
-  <img src=".github/logo.png" alt="Logo DoWhile 2021"/>
+  <img src=".github/logo.png" alt="Logo DoWhile 2021" />
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -13,6 +14,18 @@
 </div>
 
 <br/>
+<br/>
+
+<div align="center">
+  <img src=".github/node.png" alt="Logo Node.js" height="75px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src=".github/react.png" alt="Logo React JS" height="75px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src=".github/native.png" alt="Logo React Native" height="75px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src=".github/elixir.png" alt="Logo Elixir" height="75px" />
+</div>
+
 <br/>
 
 <div align="center">
