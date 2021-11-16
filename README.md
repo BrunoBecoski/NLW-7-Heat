@@ -41,11 +41,12 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 
 ## Node
 
-O backend da aplicação.
+O backend da aplicação. Utilizando o Prisma como ORM e o SQLite como banco de dados.
 
 ### Tecnologias
 * Prisma
 * TypeScript
+* SQLite
 * Express
 * Github OAuth
 * Socket.IO
