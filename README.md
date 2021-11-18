@@ -44,21 +44,10 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 O backend da aplicação, Utilizando o Prisma como ORM e o SQLite como banco de dados.
 #### Rotas
 
-**/authenticate** 
-
-Criar o usuário ou faz login na aplicação.
-
-**/messages** 
-
-Salva a mensagem no banco de dados.
-
-**/messages/last3** 
-
-Retorna as ultimas três mensagens.
-
-**/profile** 
-
-Retorna as informação do usuário.
+/authenticate                            | /profile                         | /messages                          | /messages/last3
+---------------------------------------- | -------------------------------- | ---------------------------------- | ----------------------------------------
+Cria o usuário ou faz login na aplicação | Retorna as informação do usuário | Salva a mensagem no banco de dados | Retorna as três últimas mensagens salvas
+                           
 
 ### Tecnologias
 * Prisma
