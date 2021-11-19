@@ -64,7 +64,7 @@ Cria o usuário ou faz login na aplicação | Retorna as informação do usuári
 O Front-end web da aplicação, 
 
 ### Tecnologias
-* React 
+* React JS
 * Vite
 * TypeScript
 * Sass
