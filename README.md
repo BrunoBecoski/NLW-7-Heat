@@ -61,7 +61,7 @@ Cria o usuário ou faz login na aplicação | Retorna as informação do usuári
 <br/>
 
 ## React
-O Front-end web da aplicação, 
+O Front-end web da aplicação, criado com o Vite.
 
 ### Tecnologias
 * React JS
