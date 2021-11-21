@@ -73,7 +73,7 @@ O Front-end web da aplicação, criado com o Vite.
 <br/>
 
 ## Native
-* 
+* React Native
 * Expo
 * TypeScript
 * Moti
