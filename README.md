@@ -73,7 +73,7 @@ Front-end web da aplicação, criado com o Vite.
 <br/>
 
 ## Native
-Front-end mobile da aplicação
+Front-end mobile da aplicação, criado com o Expo.
 
 ### Tecnologias
 * React Native
