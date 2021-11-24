@@ -1,7 +1,8 @@
 <div align="center">
-  <img src=".github/logo.png" alt="Logo DoWhile 2021"/>
+  <img src=".github/logo.png" alt="Logo DoWhile 2021" />
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -16,6 +17,18 @@
 <br/>
 
 <div align="center">
+  <img src=".github/node.png" alt="Logo Node.js" height="75px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src=".github/react.png" alt="Logo React JS" height="75px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src=".github/native.png" alt="Logo React Native" height="75px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src=".github/elixir.png" alt="Logo Elixir" height="75px" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src=".github/capa.png" alt="Capa DoWhile 2021"/>
 </div>
 
@@ -27,8 +40,20 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 <br/>
 
 ## Node
+Back-end da aplicação, utilizando o Prisma como ORM e o SQLite como banco de dados.
+
+### Rotas
+
+/authenticate                            | /profile                         | /messages                          | /messages/last3
+---------------------------------------- | -------------------------------- | ---------------------------------- | ----------------------------------------
+Cria o usuário ou faz login na aplicação | Retorna as informação do usuário | Salva a mensagem no banco de dados | Retorna as três últimas mensagens salvas
+                           
+
+### Tecnologias
+* Node.js
 * Prisma
 * TypeScript
+* SQLite
 * Express
 * Github OAuth
 * Socket.IO
@@ -36,6 +61,10 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 <br/>
 
 ## React
+Front-end web da aplicação, criado com o Vite.
+
+### Tecnologias
+* React JS
 * Vite
 * TypeScript
 * Sass
@@ -44,6 +73,10 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 <br/>
 
 ## Native
+Front-end mobile da aplicação, criado com o Expo.
+
+### Tecnologias
+* React Native
 * Expo
 * TypeScript
 * Moti
