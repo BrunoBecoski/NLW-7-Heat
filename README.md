@@ -43,7 +43,6 @@ O DoWhile 2021 é um app onde as pessoas podem escrever, ou ver as expectativa p
 Back-end da aplicação, utilizando o Prisma como ORM e o SQLite como banco de dados.
 
 ### Rotas
-
 /authenticate                            | /profile                         | /messages                          | /messages/last3
 ---------------------------------------- | -------------------------------- | ---------------------------------- | ----------------------------------------
 Cria o usuário ou faz login na aplicação | Retorna as informação do usuário | Salva a mensagem no banco de dados | Retorna as três últimas mensagens salvas
@@ -63,6 +62,12 @@ Cria o usuário ou faz login na aplicação | Retorna as informação do usuári
 ## React
 Front-end web da aplicação, criado com o Vite.
 
+### Design
+<div align="center">
+  <img src=".github/react_home.png" alt="React Home" width="49%" />
+  <img src=".github/react_homeLogin.png" alt="React Home Login" width="49%" />
+</div>
+  
 ### Tecnologias
 * React JS
 * Vite
