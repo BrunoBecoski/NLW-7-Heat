@@ -63,7 +63,7 @@ Cria o usuário ou faz login na aplicação | Retorna as informação do usuári
 Front-end web da aplicação, criado com o Vite.
 
 ### Design
-<div align="center">
+<div>
   <img src=".github/react_home.png" alt="React Home" width="49%" />
   <img src=".github/react_homeLogin.png" alt="React Home Login" width="49%" />
 </div>
@@ -80,6 +80,12 @@ Front-end web da aplicação, criado com o Vite.
 ## Native
 Front-end mobile da aplicação, criado com o Expo.
 
+### Design
+<div>
+  <img src=".github/native_home.png" alt="React Home" width="25%" />
+  <img src=".github/native_homeLogin.png" alt="React Home Login" width="25%" />
+</div>
+  
 ### Tecnologias
 * React Native
 * Expo
