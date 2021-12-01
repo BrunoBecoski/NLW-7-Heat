@@ -96,6 +96,8 @@ Front-end mobile da aplicação, criado com o Expo.
 <br/>
 
 ## Elixir
+
+### Tecnologias
 * Phoenix
 * Ecto
 * Task
