@@ -96,6 +96,7 @@ Front-end mobile da aplicação, criado com o Expo.
 <br/>
 
 ## Elixir
+Microserviço em Elixir, criado com o Phoenix Framework.
 
 ### Tecnologias
 * Phoenix
