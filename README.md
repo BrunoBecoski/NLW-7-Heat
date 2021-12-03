@@ -98,6 +98,8 @@ Front-end mobile da aplicação, criado com o Expo.
 ## Elixir
 Microserviço em Elixir, criado com o Phoenix Framework.
 
+Todo dia gera uma nuvem de tags das mensagens enviadas nas últimas 24 horas.
+
 ### Tecnologias
 * Phoenix
 * Ecto
