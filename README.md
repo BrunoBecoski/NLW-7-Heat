@@ -49,13 +49,13 @@ Cria o usuário ou faz login na aplicação | Retorna as informação do usuári
                            
 
 ### Tecnologias
-* Node.js
-* Prisma
-* TypeScript
-* SQLite
-* Express
-* Github OAuth
-* Socket.IO
+* [Node.js](https://nodejs.org/en/)
+* [Prisma](https://www.prisma.io)
+* [TypeScript](https://www.typescriptlang.org)
+* [SQLite](https://www.sqlite.org)
+* [Express](https://expressjs.com)
+* [Github OAuth](https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
+* [Socket.IO](https://socket.io)
 
 <br/>
 
