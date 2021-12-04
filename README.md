@@ -69,11 +69,11 @@ Front-end web da aplicação, criado com o Vite.
 </div>
   
 ### Tecnologias
-* React JS
-* Vite
-* TypeScript
-* Sass
-* Socket.IO
+* [React JS](https://reactjs.org)
+* [Vite](https://vitejs.dev)
+* [TypeScript](https://www.typescriptlang.orgs)
+* [Sass](https://sass-lang.com)
+* [Socket.IO](https://socket.io)
 
 <br/>
 
