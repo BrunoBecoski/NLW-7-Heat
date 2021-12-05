@@ -87,11 +87,11 @@ Front-end mobile da aplicação, criado com o Expo.
 </div>
   
 ### Tecnologias
-* React Native
-* Expo
-* TypeScript
-* Moti
-* Socket.IO
+* [React Native](https://reactnative.dev)
+* [Expo](https://expo.dev)
+* [TypeScript](https://www.typescriptlang.org)
+* [Moti](https://moti.fyi)
+* [Socket.IO](https://socket.io)
 
 <br/>
 
