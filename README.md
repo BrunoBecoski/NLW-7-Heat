@@ -101,7 +101,8 @@ Microserviço em Elixir, criado com o Phoenix Framework.
 Todo dia gera uma nuvem de tags das mensagens enviadas nas últimas 24 horas.
 
 ### Tecnologias
-* Phoenix
-* Ecto
-* Task
-* Quantum
+* [Elixir](https://elixir-lang.org)
+* [Phoenix](https://www.phoenixframework.org)
+* [Ecto](https://hexdocs.pm/ecto/Ecto.html)
+* [Task](https://hexdocs.pm/elixir/1.12/Task.html)
+* [Quantum](https://github.com/quantum-elixir/quantum-core)
